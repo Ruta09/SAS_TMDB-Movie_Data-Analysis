@@ -1,4 +1,3 @@
 # Movie Data Analysis using SAS
-The primary objective of this dataset is to find out most Profitable movie, famous director of movie, 
-most popular production company, movie with highest budget and longest movie of the all-time. 
-This analysis help to quick view of the movie DB(TMDB).
+
+The primary objective of this dataset is to identify the most profitable movies, renowned directors, leading production companies, films with the highest budgets, and longest durations of all time. This analysis provides a comprehensive overview of the movie database (TMDB), offering insights that facilitate quick assessment and understanding of key metrics within the film industry. By focusing on profitability, directorial reputation, production company prominence, budgetary scale, and runtime extremes, this study aims to provide valuable information that can inform decision-making processes related to movie production, distribution, and audience engagement strategies.
